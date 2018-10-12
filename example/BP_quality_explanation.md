@@ -32,5 +32,13 @@
 重点是这句程序  
 ***mlp=MLPRegressor(i,activation='logistic',solver='sgd',learning_rate='constant',learning_rate_init=0.00000001*r*r)***  
 
-选择sklearn机器学习库中，多层回归，也就是神经网络方法，激活函数选择***logistics***，优化器选择***随机梯度下降法（sgd）***，学习率取***固定值‘constant’***，初始化为***0.00000001 r r***  
+选择sklearn机器学习库中，多层回归，也就是神经网络方法，
+激活函数选择
+***logistics***
+优化器选择
+***随机梯度下降法（sgd）***
+学习率取
+***固定值‘constant’***
+初始化为
+***0.00000001 r r***  
 这段程序用来运算效果并不好，只是给大家举个例子，希望大家能够写出更好的程序以及说明文档
