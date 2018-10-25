@@ -11,3 +11,7 @@
 培训结果评定将参照上述任务完成情况
 
 预祝各位同学在本次培训中有所收获
+
+如果有同学在pip安装时速度很慢，可以更换下载镜像为国内镜像。教程链接如下
+
+https://blog.csdn.net/yuzaipiaofei/article/details/80891108
