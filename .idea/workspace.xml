@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59142632-8793-45e4-8e28-28533375fc95" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/project_6/simple3.cgi" />
-      <change beforePath="$PROJECT_DIR$/calculator/.idea/workspace.xml" afterPath="$PROJECT_DIR$/calculator/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="59142632-8793-45e4-8e28-28533375fc95" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,7 +81,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/100数珩科技/数据" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
