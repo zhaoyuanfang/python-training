@@ -21,6 +21,15 @@
 
 
 ### 举个栗子
-![example](D:\101GitHub\python-training\pictures\index.jpg)
+![example](github/index.jpg)
 
-![classify](D:\101GitHub\python-training\pictures\decessiontree.jpg)
+***分类***
+---
+![classify](github/decessiontree.png)
+
+
+
+
+
+
+[1]: https://github.com/zhaoyuanfang/python-training/blob/master/pictures/ "github"
