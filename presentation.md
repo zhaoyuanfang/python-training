@@ -21,15 +21,28 @@
 
 
 ### 举个栗子
-![example](github/index.jpg)
+![example](https://github.com/zhaoyuanfang/python-training/blob/master/pictures//index.jpg)
 
 ***分类***
 ---
-![classify](github/decessiontree.png)
+![classify](https://github.com/zhaoyuanfang/python-training/blob/master/pictures//decessiontree.png)
 
 
 
+***回归***
+---
+![regression](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/regression.png)
 
+***聚类***
+---
+![regression](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/agg.jpg)
 
+***降维***
+---
+![regression](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/reduce.jpg)
 
-[1]: https://github.com/zhaoyuanfang/python-training/blob/master/pictures/ "github"
+## **十大算法**
+---  
+### [决策树(decission tree)](https://baike.baidu.com/item/%E5%86%B3%E7%AD%96%E6%A0%91/10377049?fr=aladdin)
+- 关键概念：[**信息熵**](https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E7%86%B5)
+- 每次分割使得系统整体的信息熵减少最多
