@@ -33,15 +33,15 @@
 
 ***回归***
 ---
-![regression](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/regression.png)
+![regression](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/regression.png)
 
 ***聚类***
 ---
-![cluster](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/agg.jpg)
+![cluster](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/agg.jpg)
 
 ***降维***
 ---
-![dimenssion reduction](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/reduce.jpg)
+![dimenssion reduction](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/reduce.jpg)
 
 ## **十大算法**
 ---  
@@ -50,17 +50,17 @@
 - 每次分割使得系统整体的信息熵减少最多
 ### [随机森林](https://baike.baidu.com/item/%E9%9A%8F%E6%9C%BA%E6%A3%AE%E6%9E%97)  
 - 一堆决策树  
-![forest](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/forest.png)
+![forest](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/forest.png)
 ### [逻辑回归(logistic regression)](https://baike.baidu.com/item/logistic%E5%9B%9E%E5%BD%92/2981575?fromtitle=%E9%80%BB%E8%BE%91%E5%9B%9E%E5%BD%92&fromid=17202449&fr=aladdin)
 
 - 对线性回归再加一层非线性函数  
-![LR](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/LR.png)
+![LR](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/LR.png)
 
-![LR1](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/LR1.png)
+![LR1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/LR1.png)
 
 ### [支持向量机(Support Vector Machine, SVM)](https://baike.baidu.com/item/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA?fromtitle=svm&fromid=4385807)  
 - 获取线性超平面  
-![SVM1](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/SVM1.png)  
+![SVM1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/SVM1.png)  
 - 核函数核方法
 
 
@@ -74,7 +74,7 @@
 
 ### [K均值(K means)](https://baike.baidu.com/item/K%E5%9D%87%E5%80%BC%E8%81%9A%E7%B1%BB%E7%AE%97%E6%B3%95?fromtitle=Kmeans&fromid=10932719)  
 - 无监督聚类算法  
-![Kmeans](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/Kmeans.png) 
+![Kmeans](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/Kmeans.png) 
 
 ### [Adaboost](https://baike.baidu.com/item/adaboost/4531273?fr=aladdin)
 - 三个臭皮匠定个诸葛亮  
@@ -83,8 +83,8 @@
 ### [主成分分析](https://baike.baidu.com/item/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/829840)  
 - 无监督降维方法  
 
-![PCA](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/PCA.jpg)  
-![PCA1](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/PCA1.jpg)  
+![PCA](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA.jpg)  
+![PCA1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA1.jpg)  
 
 ### [神经网络](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/382460)  
 
@@ -94,7 +94,7 @@
 - 图像  
 
 ### [卷积神经网络(Convolutional Neural Networks, CNN)](https://baike.baidu.com/item/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)  
-![CNN](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/CNN.png)  
+![CNN](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/CNN.png)  
 重要参数：
   
 - 卷积核  
@@ -104,6 +104,6 @@
 [IBM Cloud](https://cloud.ibm.com/)  
 
 ### [循环神经网络(Recurrent Neural Networks, RNN](https://baike.baidu.com/item/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)  
-![RNN](https://github.com/zhaoyuanfang/python-training/tree/master/pictures/RNN.png)  
+![RNN](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/RNN.png)  
 
 [IBM Lab](https://labs.cognitiveclass.ai/profile)
