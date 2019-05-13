@@ -10,7 +10,7 @@
   
 -  **[数据挖掘](https://baike.baidu.com/item/%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/216477?fr=aladdin)** 可以直观的从名字理解，就是从数据中挖掘出有价值的信息  
 
-- 这里的数据通常是**[结构化数据](https://baike.baidu.com/item/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E6%8D%AE)** 可以简单理解为二维数据表  
+- 这里的数据通常是 **[结构化数据](https://baike.baidu.com/item/%E7%BB%93%E6%9E%84%E5%8C%96%E6%95%B0%E6%8D%AE)** 可以简单理解为二维数据表  
 - 通常数据挖掘的任务可以有一下几种：
 	1. **分类**：根据给定数据确定样本属于特定类别
 	2. **回归**：根据给定数据计算样本某一属性具体数值
@@ -23,11 +23,11 @@
 
 
 ### 举个栗子
-![example](https://github.com/zhaoyuanfang/python-training/tree/master/pictures//index.jpg)
+![example](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/index.jpg)
 
 ***分类***
 ---
-![classify](https://github.com/zhaoyuanfang/python-training/tree/master/pictures//decessiontree.png)
+![classify](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/decessiontree.png)
 
 
 
