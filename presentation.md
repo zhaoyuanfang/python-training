@@ -58,7 +58,7 @@
 
 ![LR1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/LR1.png)
 
-###[支持向量机(Support Vector Machine, SVM)](https://baike.baidu.com/item/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA?fromtitle=svm&fromid=4385807)  
+### [支持向量机(Support Vector Machine, SVM)](https://baike.baidu.com/item/%E6%94%AF%E6%8C%81%E5%90%91%E9%87%8F%E6%9C%BA?fromtitle=svm&fromid=4385807)  
 - 获取线性超平面  
 ![SVM1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/SVM1.png)  
 - 核函数核方法
@@ -83,9 +83,27 @@
 ### [主成分分析](https://baike.baidu.com/item/%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/829840)  
 - 无监督降维方法  
 
-![PCA](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA.png)  
-![PCA1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA1.png)  
+![PCA](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA.jpg)  
+![PCA1](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/PCA1.jpg)  
 
 ### [神经网络](https://baike.baidu.com/item/%E4%BA%BA%E5%B7%A5%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C/382460)  
 
-## **深度学习**
+## **深度学习**  
+- 语音
+- 语意（自然语言处理）
+- 图像  
+
+### [卷积神经网络(Convolutional Neural Networks, CNN)](https://baike.baidu.com/item/%E5%8D%B7%E7%A7%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)  
+![CNN](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/CNN.jpg)  
+重要参数：
+  
+- 卷积核  
+- 步长  
+- 填充值  
+
+[IBM Cloud](https://cloud.ibm.com/)  
+
+### [循环神经网络(Recurrent Neural Networks, RNN](https://baike.baidu.com/item/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C)  
+![RNN](https://github.com/zhaoyuanfang/python-training/blob/master/pictures/RNN.jpg)  
+
+[IBM Lab](https://labs.cognitiveclass.ai/profile)
